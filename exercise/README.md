@@ -1,5 +1,12 @@
-# Exercises
+# 💪 Exercises
 
-This folder contains practice problems from class and coding websites.
+This folder contains the practice problems I complete while learning C++.
 
-Every exercise helps strengthen my C++ skills.
+My goal is to improve by solving problems from:
+
+- College assignments
+- HackerRank
+- Personal challenges
+- Practice exercises
+
+Every completed exercise helps strengthen my programming and problem-solving skills.
